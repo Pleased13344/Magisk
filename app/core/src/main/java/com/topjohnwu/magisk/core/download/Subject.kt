@@ -1,4 +1,4 @@
-package com.topjohnwu.magisk.core.download
+package e com.topjohnwu.magisk.core.download
 
 import android.annotation.SuppressLint
 import android.app.PendingIntent
